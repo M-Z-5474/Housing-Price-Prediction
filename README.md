@@ -8,17 +8,20 @@ In this project focuses on using a supervised learning algorithm (Linear Regress
 - Use Python and Scikit-learn to build and evaluate a predictive model.
 - Visualize and interpret model results with appropriate metrics.
 
-## 🗂️  Project Structure
+
+## 📁 Project Structure
+
+```
 
 California-Housing-Price-Prediction/
 │
-├── 📁 data/                   # (optional) Save sample if using external dataset
-├── 📁 images/                 # Save plots or screenshots for README
-├── 📄 California_Housing_Price_Prediction.ipynb  # Your main notebook
+├── 📁 images/                 # Result images : heartmap,predicted_vs_actual
+├── 📄 Housing_Price_Prediction.ipynb  # main notebook
 ├── 📄 README.md               # Project overview and documentation
-├── 📄 requirements.txt        # List of dependencies
-└── 📄 .gitignore              # Optional, ignore unnecessary files
+└──📄 requirements.txt        # List of dependencies
 
+```
+---
 
 ## 📁 Dataset
 
@@ -59,6 +62,9 @@ California-Housing-Price-Prediction/
 | Heatmap | Predicted vs Actual |
 |--------|---------------------|
 | ![Heatmap](images/heatmap.png) | ![Scatter](images/predicted_vs_actual.png) |
+
+![Heatmap](images/heatmap.png)
+ ![Scatter](images/predicted_vs_actual.png) 
 
 ## ✅ Conclusion
 
