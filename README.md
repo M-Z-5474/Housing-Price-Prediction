@@ -55,11 +55,6 @@ This project helped me understand the fundamentals of regression modeling. I lea
 - Evaluate model performance using MSE and R²
 - Visualize predictions and identify patterns in real-world data
 
-## 📎 Future Improvements
-
-- Add feature engineering (e.g., polynomial regression)
-- Try advanced models like Random Forest or XGBoost
-- Deploy the model with Streamlit or Flask
 
 ## 🧠 Learnings
 
@@ -69,5 +64,10 @@ This project helped me understand the fundamentals of regression modeling. I lea
 
 ## 🔗 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 💻 [Portfolio Website](#) *(if available)*
+📬 Muhammad Zain Mushtaq developed this project 
+🔗 GitHub: https://github.com/M-Z-5474
+📧 Email: m.zainmushtaq74@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
+________________________________________
+🌟 If you like this project, please consider giving it a ⭐ on GitHub!
+
