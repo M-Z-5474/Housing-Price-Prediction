@@ -63,8 +63,6 @@ California-Housing-Price-Prediction/
 |--------|---------------------|
 | ![Heatmap](images/heatmap.png) | ![Scatter](images/predicted_vs_actual.png) |
 
-![Heatmap](images/heatmap.png)
- ![Scatter](images/predicted_vs_actual.png) 
 
 ## ✅ Conclusion
 
