@@ -61,7 +61,7 @@ This project helped me understand the fundamentals of regression modeling. I lea
 - Try advanced models like Random Forest or XGBoost
 - Deploy the model with Streamlit or Flask
 
-## 🧠 Learnings from Week 1
+## 🧠 Learnings
 
 > “From this project I learned the difference between classification and regression tasks. I applied Linear Regression to predict housing prices using the California dataset and explored model evaluation using MSE and R² Score. This gave me a foundational understanding of ML model development.”
 
