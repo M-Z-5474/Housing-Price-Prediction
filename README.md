@@ -8,6 +8,18 @@ In this project focuses on using a supervised learning algorithm (Linear Regress
 - Use Python and Scikit-learn to build and evaluate a predictive model.
 - Visualize and interpret model results with appropriate metrics.
 
+## 🗂️  Project Structure
+
+California-Housing-Price-Prediction/
+│
+├── 📁 data/                   # (optional) Save sample if using external dataset
+├── 📁 images/                 # Save plots or screenshots for README
+├── 📄 California_Housing_Price_Prediction.ipynb  # Your main notebook
+├── 📄 README.md               # Project overview and documentation
+├── 📄 requirements.txt        # List of dependencies
+└── 📄 .gitignore              # Optional, ignore unnecessary files
+
+
 ## 📁 Dataset
 
 - Dataset Source: `sklearn.datasets.fetch_california_housing()`
