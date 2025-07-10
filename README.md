@@ -18,7 +18,7 @@ California-Housing-Price-Prediction/
 ├── 📁 images/                 # Result images : heartmap,predicted_vs_actual
 ├── 📄 Housing_Price_Prediction.ipynb  # main notebook
 ├── 📄 README.md               # Project overview and documentation
-└──📄 requirements.txt        # List of dependencies
+└── 📄 requirements.txt        # List of dependencies
 
 ```
 ---
